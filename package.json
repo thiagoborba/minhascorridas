@@ -1,0 +1,31 @@
+{
+  "name": "minhascorridas",
+  "version": "1.0.0",
+  "description": "Web app para motoristas particulares registrarem seus ganhos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagoborba/minhascorridas.git"
+  },
+  "keywords": [
+    "uber",
+    "pop",
+    "corridas",
+    "ganhos",
+    "receita",
+    "despesa"
+  ],
+  "author": "Thiago Borba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagoborba/minhascorridas/issues"
+  },
+  "homepage": "https://github.com/thiagoborba/minhascorridas#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
